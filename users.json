@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Ragil",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0816562115"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Nyambek",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Codot",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Raimu tak coding",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"cari tau sendiri deh"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Trenggiling",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"cari tau sendiri deh"
+    }
+  }
